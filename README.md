@@ -28,15 +28,13 @@ BCA Graduate • Web Developer • Quick Learner
 
 ### 📌 Featured Projects
 - **Amazon Clone** – Home page UI  
-  Repo: [LINK_TO_REPO] • Live: [LIVE_DEMO_LINK]
+  Repo: [https://github.com/rehanrakesh/Amazon-clone] • Live: [https://rehanrakesh.github.io/Amazon-clone/]
 - **Expense Tracker** – Track daily expenses  
-  Repo: [LINK_TO_REPO] • Live: [LIVE_DEMO_LINK]
+  Repo: [https://github.com/rehanrakesh/Expense-Tracker.io] • Live: [https://rehanrakesh.github.io/Expense-Tracker.io/]
 - **Calculator App** – Basic calculator in JS  
-  Repo: [LINK_TO_REPO]
-- **To-Do List App** – CRUD tasks with local storage  
-  Repo: [LINK_TO_REPO]
+  Repo: [https://github.com/rehanrakesh/calculator]• Live: [https://rehanrakesh.github.io/calculator/]
 - **Personal Website** – Portfolio & projects  
-  Repo: [LINK_TO_REPO] • Live: https://rehanrakesh.github.io/
+  Repo: [https://github.com/rehanrakesh/Personal-Portfolio-v2.io]• Live: [https://rehanrakesh.github.io/Personal-Portfolio-v2.io/]
 
 > Tip: Add 1 screenshot per project inside its repo and show it in that repo’s README.
 
