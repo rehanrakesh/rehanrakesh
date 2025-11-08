@@ -7,7 +7,7 @@ BCA Graduate • Web Developer • Quick Learner
 <p align="center">
   <a href="mailto:rehanrakeshk@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/rehanrakesh">LinkedIn</a> •
-  <a href="https://rehanrakesh.github.io/">Portfolio</a>
+  <a href="https://rehanrakesh.github.io/Personal-Portfolio-v2.io/">Portfolio</a>
 </p>
 
 ---
@@ -50,5 +50,5 @@ BCA Graduate • Web Developer • Quick Learner
 
 ### 🤝 Connect
 - 💼 LinkedIn: https://www.linkedin.com/in/rehanrakesh  
-- 🌐 Portfolio: https://rehanrakesh.github.io/  
+- 🌐 Portfolio: https://rehanrakesh.github.io/Personal-Portfolio-v2.io/ 
 - ✉️ Email: rehanrakeshk@gmail.com
