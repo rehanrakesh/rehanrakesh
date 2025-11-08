@@ -36,7 +36,6 @@ BCA Graduate • Web Developer • Quick Learner
 - **Personal Website** – Portfolio & projects  
   Repo: [https://github.com/rehanrakesh/Personal-Portfolio-v2.io]• Live: [https://rehanrakesh.github.io/Personal-Portfolio-v2.io/]
 
-> Tip: Add 1 screenshot per project inside its repo and show it in that repo’s README.
 
 ### 📊 GitHub Stats
 ![Rehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rehanrakesh&show_icons=true&theme=radical)
